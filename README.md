@@ -5,7 +5,7 @@ I design, build and fix Bitrix24 systems for businesses, especially in real esta
 Each folder is a project with real business problems, the solution I built, and proof that it works.
 
 ## Projects
-| Client | Type | Status |
+| Project | Type | Status |
 | --- | --- | --- |
 | [Property Company](property-company/) | Real estate brokerage: sales, rentals, property management | In progress |
 
