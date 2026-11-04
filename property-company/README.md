@@ -14,6 +14,6 @@ Agents work from WhatsApp and personal phones. Nobody can see who handles which 
 ## Solutions
 | Solution | Problem solved | Status |
 | --- | --- | --- |
-| [Brokerage workspace](solutions/workspace-setup) | Scattered communication, tasks and files | In progress |
+| [Brokerage workspace](solutions/brokerage-workspace/) | Scattered communication, tasks and files | In progress |
 
 Built on Bitrix24 Cloud.
